@@ -14,7 +14,7 @@ cevaplar = {
     "vaka1": "MERHABA",
 
     # 🌀 Portal 2 — Sayı Matrisi (Serhat)
-    "vaka2": "DONX",
+    "vaka2": "AQKU",
 
     # 🌀 Portal 3 — Makinelerin Dili (Mehmet)
     "vaka3": "CESARET",
@@ -38,6 +38,6 @@ cevaplar = {
     "vaka9": "REHBER",
 
     # 🌀 Portal 10 — Son Portal (Core Crew)
-    "vaka10": "MDCERALAR",
+    "vaka10": "MACERALAR",
 
 }
